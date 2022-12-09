@@ -8,4 +8,10 @@
 }
 
 .hwTitle {
+    width: 165px;
+    height: 27px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
 }
