@@ -5,12 +5,13 @@
 .hw {
     display: flex;
     flex-direction: column;
+    height: 300px;
+    border: 1px solid #D9D9D9;
+    padding: 30px;
 }
 
 .hwTitle {
-    padding-left: 20px;
-    height: 27px;
-    font-family: 'Montserrat';
+    padding: 30px;
     font-weight: 600;
     font-size: 22px;
     line-height: 27px;
