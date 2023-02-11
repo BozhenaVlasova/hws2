@@ -1,3 +1,7 @@
 .loader {
+    height: 50px;
+    width: 50px;
+    background-image: url('http://fut7.pt/wp-content/plugins/appspinner/assets/images/gif-loader.gif');
+    background-size: cover;
     /*свг и/или анимация*/
 }
