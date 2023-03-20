@@ -1,27 +1,47 @@
 .tech {
-    width: 50vw;
+    width: 25vw;
 }
 
 .developer {
-
+    width: 25vw;
 }
 
 .techHeader {
-    width: 50vw;
+    width: 25vw;
+    padding-left: 10px;
+    border-bottom: 1px solid #E5E5E5;
 }
 
 .developerHeader {
+    padding-left: 10px;
+    width: 25vw;
+    border-bottom: 1px solid #E5E5E5;
 
 }
 
 .row {
+    padding-left: 10px;
     display: flex;
+    align-items: center;
+    width: 606px;
+    height: 36px;
+    border-bottom: 1px solid #E5E5E5;
 }
 
 .rowHeader {
     display: flex;
+    align-items: center;
+    font-weight: bold;
+    background-color: #E5E5E5;
+    height: 36px;
+    width: 606px;
 }
 
 .loading {
-
+    display: block;
+    margin-left: 303px;
+    width: 50px;
+    height: 50px;
+    background-image: url('http://fut7.pt/wp-content/plugins/appspinner/assets/images/gif-loader.gif');
+    background-size: cover;
 }
